@@ -1,0 +1,1002 @@
+#jewel 49
+#possible 58
+1
+#squealing 44
+#embarrass 23
+#shrug 40
+#burly 92
+#elderly 87
+#toothsome 27
+1
+#efficacious 12
+#adorable 69
+#treat 57
+3
+#dinosaurs 99
+#dazzling 16
+#jump 97
+#milk 12
+#winter 10
+3
+#subdued 49
+#drown 21
+3
+3
+3
+3
+#aboriginal 45
+#mix 91
+3
+3
+#gainful 53
+11
+#twist 68
+#graceful 24
+#worry 30
+#invite 22
+7
+11
+11
+7
+#ultra 77
+#apparatus 28
+#skin 98
+#shrug 35
+#same 65
+11
+#curly 36
+#curly 69
+#stew 94
+11
+#useless 17
+#milk 5
+#boast 51
+#pricey 88
+7
+#money 82
+11
+#gainful 16
+11
+#vacation 44
+#nine 97
+#rich 28
+#float 58
+7
+#beam 94
+#dazzling 9
+7
+7
+#safe 35
+#deceive 42
+#same 68
+#action 60
+#bubble 94
+#twist 95
+#ugly 13
+#delight 6
+11
+11
+#mist 82
+#earthquake 67
+#hang 95
+#introduce 71
+#compete 90
+#safe 38
+#adorable 16
+7
+#tight 79
+#cross 6
+#stretch 98
+#beam 19
+#encouraging 23
+11
+#point 5
+#capable 23
+#embarrass 13
+11
+#front 94
+#plausible 44
+#subsequent 34
+#coil 94
+#force 38
+#unhealthy 90
+#compete 59
+#jumpy 47
+#fence 17
+#eyes 39
+#influence 85
+#understood 85
+#subsequent 20
+#point 68
+#lean 15
+#loss 34
+#caption 11
+#unusual 52
+#suggestion 95
+#eyes 96
+#fasten 15
+#funny 33
+7
+#lean 53
+11
+11
+11
+#compete 11
+#person 77
+#boat 25
+#fly 68
+#nauseating 76
+#nine 39
+#boat 31
+#cent 1
+#actor 60
+#bitter 84
+#deceive 89
+#shelter 15
+#earthquake 69
+#shape 55
+#thank 6
+#thank 2
+#money 8
+#grubby 31
+#overconfident 38
+#ugly 97
+#nine 49
+#loud 31
+11
+#unhealthy 19
+#battle 9
+11
+#axiomatic 23
+#exuberant 60
+#literate 45
+#thank 25
+#underwear 56
+#eyes 97
+#dinosaurs 4
+#eyes 50
+#sign 12
+7
+#adorable 4
+#well 48
+#work 78
+#possible 9
+#ultra 53
+11
+#embarrass 7
+#muddle 22
+#work 76
+#well 24
+#boat 66
+11
+7
+7
+#treat 16
+11
+#dazzling 33
+#mix 76
+#left 66
+#trashy 11
+#compete 14
+#adaptable 37
+11
+#mix 20
+#powerful 33
+#purple 31
+#float 89
+#cruel 77
+#travel 58
+#embarrassed 54
+#embarrass 15
+#furtive 80
+#permissible 55
+#front 7
+#unfasten 0
+#placid 35
+#quilt 13
+#smoggy 93
+#eyes 54
+#responsible 57
+#remind 29
+#way 63
+#digestion 17
+#famous 19
+#overconfident 47
+#graceful 95
+#loss 73
+18
+#loud 85
+#faint 59
+#redundant 30
+#knee 32
+#pricey 3
+#observe 20
+#quilt 31
+#earthy 3
+#worry 20
+#adaptable 58
+#harbor 76
+#follow 34
+#melt 79
+#amuse 74
+#heavy 42
+#knit 71
+#grandfather 79
+#unkempt 70
+#courageous 23
+#unfasten 71
+#loud 18
+#wound 99
+30
+#dam 76
+30
+#person 58
+#hang 71
+#quilt 60
+#suspend 51
+#bitter 3
+#stew 1
+18
+#remind 18
+#fashioned 49
+#silky 20
+#curly 12
+#suggestion 88
+#trashy 8
+18
+30
+#rude 57
+#dam 90
+#texture 10
+18
+#teeth 65
+#trashy 42
+#cross 52
+#melt 41
+#rice 0
+18
+#tranquil 71
+#title 14
+30
+#confess 17
+#strip 42
+30
+#force 45
+#eyes 20
+30
+18
+#unkempt 5
+#travel 53
+#explain 66
+#unfasten 4
+#private 98
+18
+#loud 16
+#jump 67
+#mint 39
+#wool 1
+#alleged 16
+#uppity 71
+#powerful 71
+#aboriginal 45
+#loss 40
+#fool 53
+#graceful 50
+#twist 63
+#subsequent 33
+#axiomatic 27
+#milk 31
+#selfish 16
+#lovely 15
+#quilt 1
+#jewel 61
+18
+#digestion 8
+#noise 81
+#lettuce 10
+#useless 5
+#silky 81
+30
+#person 69
+#squealing 27
+#shoe 28
+#worry 84
+#confess 49
+18
+#boat 76
+#winter 67
+#skip 84
+#thank 10
+#elderly 11
+#coil 18
+#eye 34
+#pet 67
+#ugly 18
+30
+#wiggly 18
+#invite 29
+#rake 27
+30
+18
+#understood 96
+#ill 83
+18
+#ignore 11
+#embarrassed 64
+#press 37
+#future 45
+#secret 15
+#influence 10
+18
+30
+#interrupt 47
+#crayon 93
+30
+#mint 64
+30
+18
+18
+#milk 58
+#fairies 0
+30
+#well 17
+#sky 38
+#deceive 38
+#gigantic 21
+#vacation 96
+#rich 88
+#useless 87
+#embarrassed 35
+30
+18
+#list 84
+#safe 67
+#powerful 15
+30
+#wiggly 61
+18
+#arrogant 31
+#secret 98
+#son 39
+#muddle 3
+#melt 65
+#shape 7
+#coil 65
+#fool 54
+#front 50
+18
+18
+#treat 41
+#womanly 77
+18
+#live 89
+30
+#billowy 22
+#live 17
+#small 48
+#exuberant 29
+#ignore 8
+#shape 57
+30
+#muddle 66
+#grandfather 57
+30
+#actor 30
+#teeth 55
+#dam 12
+#eye 27
+#boast 44
+#surprise 98
+#muddle 56
+#battle 3
+#mix 14
+#noise 66
+#unsightly 21
+30
+#adorable 86
+30
+#neat 10
+#loud 69
+#agree 43
+#pipe 31
+30
+#soft 99
+#sign 39
+#deceive 36
+#underwear 57
+#box 28
+#redundant 10
+#rich 76
+#melt 91
+30
+30
+#live 26
+#dam 90
+#bawdy 64
+#amuse 84
+#ear 41
+30
+18
+#eyes 37
+#follow 61
+30
+#mix 2
+18
+#rake 54
+#delight 47
+#loss 62
+30
+#powerful 50
+#rake 41
+#faint 20
+#knit 12
+#press 56
+18
+18
+#obtain 14
+30
+#protect 50
+#science 95
+#protect 31
+#worry 45
+#sky 57
+30
+18
+#capable 73
+#same 69
+#purple 3
+#salty 75
+#deceive 0
+18
+#white 54
+#embarrassed 43
+#embarrassed 50
+#fool 15
+18
+#deceive 63
+30
+#gainful 92
+#synonymous 14
+30
+18
+#fasten 68
+#shoe 47
+#fence 87
+#encouraging 34
+#powerful 71
+#money 75
+#hour 71
+#actor 93
+#rake 71
+#unfasten 64
+#funny 30
+#axiomatic 80
+#smiling 42
+#loud 82
+#invite 28
+30
+#cross 80
+#private 96
+#apparatus 70
+#eye 43
+#made 52
+30
+#apparatus 0
+#force 78
+#mist 23
+#introduce 14
+#sleepy 62
+18
+#invite 49
+18
+#slave 55
+#beam 55
+#uppity 34
+#hypnotic 21
+#ultra 26
+#well 59
+#sign 14
+#silky 79
+#jewel 0
+#smiling 85
+#worry 84
+#argue 15
+#pushy 67
+#letter 7
+#graceful 28
+#travel 63
+#knee 90
+#permissible 78
+#dazzling 61
+30
+#apparatus 78
+#ill 94
+18
+#wound 51
+#uppity 31
+#careless 39
+#letter 84
+18
+#unhealthy 14
+#sidewalk 19
+#subdued 71
+30
+#act 47
+#suggestion 43
+#private 8
+#aboriginal 52
+#teeth 63
+#yielding 19
+#knit 56
+#curly 87
+#lettuce 99
+30
+18
+#knot 66
+#surprise 74
+#nauseating 9
+#mint 34
+#pushy 84
+#fasten 49
+#fly 67
+#mist 89
+30
+#pet 81
+18
+#efficacious 74
+18
+#useless 72
+#powerful 98
+18
+#literate 97
+#trucks 46
+#stretch 11
+#concentrate 63
+#boat 81
+#suppose 30
+#shoe 13
+18
+#cruel 0
+#salty 54
+18
+#adorable 30
+#wiggly 59
+#cruel 79
+#boast 72
+#fence 81
+30
+18
+18
+#tight 18
+#confess 0
+30
+#left 4
+18
+#suggestion 44
+18
+#agree 16
+18
+#jewel 18
+18
+#billowy 28
+#burly 62
+#fairies 49
+#letter 83
+30
+#nondescript 78
+#float 61
+#person 48
+#knot 40
+30
+30
+#heavy 51
+#stew 69
+#vacation 69
+#famous 72
+#shape 25
+#ill 50
+#plausible 43
+#compete 69
+#interrupt 94
+#argue 92
+#bitter 24
+#front 19
+#nine 62
+18
+#secretary 34
+#birthday 90
+#twist 60
+#soft 28
+18
+#treat 66
+#cheese 23
+#amuse 39
+#jewel 93
+#caption 78
+#cruel 71
+#delight 55
+#famous 89
+#fashioned 20
+#trucks 12
+#digestion 47
+#tranquil 51
+#knot 11
+#yoke 36
+#act 7
+#float 66
+#wiggly 12
+#ear 40
+#shoe 57
+#cent 95
+#obtain 51
+#surprise 94
+#encouraging 38
+#neat 75
+#left 92
+#slave 62
+18
+#pushy 46
+#cruel 64
+#uppity 92
+30
+#careless 28
+#mix 62
+#remain 16
+18
+#synonymous 48
+#curly 70
+#money 92
+#remain 28
+#faulty 43
+#ink 63
+#fated 72
+#efficacious 9
+#winter 86
+#heavy 69
+18
+18
+#boat 86
+#responsible 16
+#soft 54
+#burly 15
+#mate 66
+#knit 77
+#left 12
+#adorable 31
+#embarrass 63
+#sidewalk 24
+#subdued 33
+18
+#introduce 99
+#grandfather 9
+30
+30
+#ignore 12
+#fool 34
+#tranquil 83
+#efficacious 59
+#quaint 53
+#surprise 21
+#milk 53
+#coil 96
+#nine 61
+#letters 91
+#digestion 20
+#teeth 87
+#son 72
+#cheese 41
+18
+#thank 92
+18
+#loss 74
+#safe 76
+#future 26
+#faulty 44
+#jewel 79
+18
+#bubble 88
+#pushy 78
+18
+#wound 38
+#unsightly 29
+#person 68
+#action 99
+#part 29
+18
+#eyes 96
+30
+#billowy 37
+#uppity 18
+#ear 83
+#permissible 20
+#nondescript 61
+#stretch 18
+#dinosaurs 46
+#understood 78
+#abortive 63
+#surprise 6
+18
+#careless 79
+18
+#ink 77
+#nine 53
+#trucks 53
+#shrug 71
+#apparatus 4
+#careless 32
+30
+30
+18
+#aboriginal 68
+#stretch 34
+30
+#adorable 65
+18
+30
+#person 27
+#boat 63
+#ultra 66
+#efficacious 83
+30
+#wound 55
+#alleged 99
+#yoke 93
+#uppity 33
+#earthy 47
+#gainful 30
+#actor 65
+#live 82
+30
+#pricey 52
+#girl 85
+#work 6
+18
+#introduce 12
+#knee 30
+#well 0
+#ink 67
+18
+#abrupt 0
+#nippy 0
+#texture 99
+#placid 28
+#shelter 17
+#salty 2
+#mint 78
+#abortive 89
+#skip 95
+#salty 19
+#dam 21
+#compete 14
+#responsible 6
+18
+30
+#bawdy 1
+#coil 44
+#axiomatic 58
+#slave 31
+#action 20
+#nippy 24
+30
+18
+#drown 97
+18
+#left 96
+#abortive 45
+18
+#argue 39
+#action 21
+#lettuce 36
+#mellow 62
+#lying 93
+#unkempt 88
+#mist 38
+#secretary 91
+#faulty 60
+#rich 92
+#delight 75
+30
+30
+#wiggly 36
+#reading 47
+#eyes 32
+#pet 28
+#actor 79
+18
+#exuberant 7
+18
+#left 21
+#funny 34
+#skip 16
+#concerned 38
+#left 83
+#wool 96
+#small 24
+#vacation 63
+#invite 12
+#bitter 2
+#deceive 36
+30
+#muddle 80
+30
+#gainful 95
+30
+18
+#dazzling 37
+30
+30
+#way 81
+30
+18
+#slave 39
+#safe 19
+#adaptable 99
+#embarrassed 15
+#uppity 22
+#delight 80
+30
+#smiling 30
+#stiff 36
+#smoggy 45
+#jewel 33
+#letter 56
+#graceful 17
+#rich 81
+18
+#interrupt 92
+18
+#neat 1
+#trucks 44
+#beam 55
+#made 43
+#lettuce 13
+#crayon 81
+#thank 18
+18
+#neat 55
+#eye 64
+#salty 13
+18
+#useless 4
+18
+18
+#womanly 10
+#surprise 51
+#unsightly 61
+#knee 5
+18
+#axiomatic 43
+#heavy 18
+#fashioned 88
+#fly 39
+#cave 43
+#embarrass 19
+#bitter 17
+#silky 82
+30
+#worry 73
+#way 19
+#cruel 11
+#gigantic 78
+18
+#capable 70
+#dinosaurs 8
+18
+#ill 9
+18
+#fly 51
+#salty 2
+#rude 53
+#noise 16
+#squealing 69
+#protect 3
+30
+#trashy 57
+#careless 64
+18
+30
+#careless 27
+#made 59
+#mellow 86
+#skin 29
+#subdued 49
+#famous 98
+30
+#squealing 86
+#delight 27
+#rice 98
+#womanly 17
+#embarrass 76
+#coil 63
+#follow 83
+#knee 22
+#abrupt 91
+18
+#womanly 33
+#winter 30
+#possible 4
+30
+#sign 10
+#strip 58
+#nauseating 33
+18
+#delight 36
+#follow 38
+#silky 26
+#dinosaurs 12
+#jewel 21
+30
+#twist 58
+#ill 20
+#adaptable 27
+#wound 62
+18
+#synonymous 4
+#squealing 5
+30
+30
+18
+#silky 43
+#boast 81
+#loss 57
+#action 17
+#live 24
+18
+#earthy 99
+#confess 40
+#womanly 46
+#possible 93
+#abortive 49
+18
+#rice 31
+18
+#skip 96
+#eyes 50
+#pricey 31
+#coil 35
+#white 1
+#jewel 37
+#knot 20
+30
+#trucks 75
+#fence 89
+18
+#stew 43
+#purple 32
+#rich 78
+30
+#teeth 31
+#delight 86
+#cave 43
+#eyes 48
+#mellow 17
+#adorable 25
+#follow 63
+#furtive 80
+#pet 79
+18
+30
+#point 89
+#unusual 5
+#yoke 14
+#beam 8
+#bitter 49
+#efficacious 29
+#alleged 66
+#lettuce 85
+#left 18
+#ultra 79
+30
+30
+18
+#private 21
+#courageous 34
+#hang 2
+#follow 79
+#private 50
+#mist 50
+#fated 48
+#shape 81
+#capable 8
+30
+stop
