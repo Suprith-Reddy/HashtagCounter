@@ -1,5 +1,5 @@
-## hashtagcounter
-# Problem description
+# Hashtag_Counter
+## Problem description
 You are required to implement a system to find the n most popular hashtags that appear on social media such as Facebook or Twitter. For the scope of this project hashtags will be given from an input file.
 Basic idea for the implementation is to use a max priority structure to find out the most popular hashtags.
 You must use the following structures for the implementation.
